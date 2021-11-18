@@ -1,6 +1,6 @@
 {
   "headers":{
-    "/login":{
+    "/*":{
       "X-Author":"shine85",
       "Access-Control-Allow-Origin": "*"
     }
